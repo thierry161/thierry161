@@ -1,11 +1,13 @@
 # Sistemas Operacionais
 ## A evolução dos sistemas operacionais reflete a transformação da computação ao longo das décadas, acompanhando a crescente.
-![IMAGEM](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQub_7zQOyhMIlylx9FajxyjJtNKk2h1jxbFQ&s)
+
 ###  Evolução dos sistemas Operacionais
 ![evoluçao do windows](https://cdn.slidesharecdn.com/ss_thumbnails/evoluodowindows-140429114721-phpapp02-thumbnail.jpg?width=560&fit=bounds)
-O **Windows** começou em 1985 com uma interface básica. O **Windows 95** trouxe o Menu Iniciar. O **Windows XP** foi elogiado pela estabilidade, e o **Windows 7** pelo bom desempenho. O **Windows 8** inovou com a interface Metro, mas foi criticado. O **Windows 10** trouxe de volta o Menu Iniciar, e o** Windows 11** focou em uma interface moderna e produtividade.
+O **Windows** começou em 1985 com uma interface básica. O **Windows 95** trouxe o Menu Iniciar. O **Windows XP** foi elogiado pela estabilidade, e o **Windows 7** pelo bom desempenho. O **Windows 8** inovou com a interface Metro,
+mas foi criticado. O **Windows 10** trouxe de volta o Menu Iniciar, e o** Windows 11** focou em uma interface moderna e produtividade.
 ## Marcos importantes nos sistemas Operacionais 
-O Windows evoluiu com marcos importantes: em 1985, o **Windows 1.0** introduziu uma interface gráfica; em 1995, o **Windows 95** trouxe o Menu Iniciar. O **Windows XP (2001)** foi estável, o **Windows 7** (2009) melhorou o desempenho, e o **Windows 8 (2012)** inovou com a interface Metro. O **Windows 10 (2015)** recuperou o Menu Iniciar, e o **Windows 11 (2021)** trouxe uma interface moderna e foco em produtividade.
+O Windows evoluiu com marcos importantes: em 1985, o **Windows 1.0** introduziu uma interface gráfica; em 1995, o **Windows 95** trouxe o Menu Iniciar. O **Windows XP (2001)** foi estável, o **Windows 7** (2009) melhorou o desempenho, 
+e o **Windows 8 (2012)** inovou com a interface Metro. O **Windows 10 (2015)** recuperou o Menu Iniciar, e o **Windows 11 (2021)** trouxe uma interface moderna e foco em produtividade.
 ## Cinco versões importantes do Windows
 ![versões do windows]((https://preview.redd.it/kdug5qc6qxx01.jpg?auto=webp&s=5b6f0a811e257f3b50cb4194e51e51f6711f8197))
 **Windows 95 (1995)**: Introduziu o Menu Iniciar e multitarefa real.
@@ -36,7 +38,7 @@ Verifica o disco rígido em busca de problemas e tenta corrigir erros.
 **tasklist**
 Mostra todos os programas e processos que estão rodando no momento no seu computador.
 ## Curiosidades 
-![curiosidades](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDVhZJocc0j0xZVoVmwTojxWPMabvg0JL3bg&s)
+
 Windows vem das **"janelas"** da interface gráfica.
 
 O primeiro Windows rodava sobre o **MS-DOS** e não tinha janelas sobrepondo.

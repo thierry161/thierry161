@@ -1,8 +1,11 @@
+
 # Sistemas Operacionais
 ## A evolução dos sistemas operacionais reflete a transformação da computação ao longo das décadas, acompanhando a crescente.
 
 ###  Evolução dos sistemas Operacionais
 ![evoluçao do windows](https://cdn.slidesharecdn.com/ss_thumbnails/evoluodowindows-140429114721-phpapp02-thumbnail.jpg?width=560&fit=bounds)
+
+
 **Windows** começou em 1985 com uma interface básica
 
 **Windows 95** trouxe o Menu Iniciar
@@ -86,6 +89,7 @@ A **Tela Azul** surgiu para mostrar erros, mas causava pânico.
  ## FONTES
 [**Microsoft**](https://learn.microsoft.com/pt-br/windows-hardware/drivers/network/windows-network-architecture-and-the-osi-model) /
 [**Grupo de tcnologia**](https://grupolidertecnologia.com.br/noticias/evolucao-do-windows).
+
 
 
 

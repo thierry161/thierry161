@@ -2,8 +2,8 @@
 # Sistemas Operacionais
 ## A evolução dos sistemas operacionais reflete a transformação da computação ao longo das décadas, acompanhando a crescente.
 
-## **1. Evolução do Windows**  
-![evoluçao do windows](https://cdn.slidesharecdn.com/ss_thumbnails/evoluodowind)
+## **1. Evolução do Windows 
+![evoluçao do windows](https://images.app.goo.gl/afj6h9wFjLtgFD2G6)
 
 O Windows passou de uma interface para MS-DOS (1985) ao sistema operacional mais usado no mundo. Destaques:  
 - **Windows 95**: Introduziu o Menu Iniciar.  

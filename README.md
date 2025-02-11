@@ -3,7 +3,7 @@
 ## A evolução dos sistemas operacionais reflete a transformação da computação ao longo das décadas, acompanhando a crescente.
 
 ## Evolução do Windows 
-![evoluçao do windows](https://images.app.goo.gl/afj6h9wFjLtgFD2G6)
+![evoluçao Windows](https://preview.redd.it/kdug5qc6qxx01.jpg?auto=webp&s=5b6f0a811e257f3b50cb4194e51e51f6711f8197)
 
 O Windows passou de uma interface para MS-DOS (1985) ao sistema operacional mais usado no mundo. Destaques:  
 - **Windows 95**: Introduziu o Menu Iniciar.  
@@ -28,25 +28,18 @@ O Windows passou de uma interface para MS-DOS (1985) ao sistema operacional mais
 5. **Windows 11** – Design moderno e otimizações para produtividade.
    
 ## Arquitetura do Windows 
-![arquitetura](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Esquema_das_camadas_da_interface_gr%C3%A1fica.svg/1200px-Esquema_das_camadas_da_interface_gr%C3%A1fica.svg.png)
 Dividido em camadas:  
 - **Kernel**: Gerencia hardware e recursos.  
 - **Drivers**: Comunicação entre sistema e dispositivos.  
 - **Interface gráfica**: Interação do usuário com o sistema.  
 
 ## Comandos e suas funções
-
 **ipconfig /all**
 Mostra as configurações de rede do seu computador, como IP, máscara de sub-rede e DNS.
 
 **ing**
 [endereço IP ou site]
 Testa se o seu computador consegue se conectar a outro dispositivo ou site.
-**dir**
-Exibe os arquivos e pastas no diretório onde você está.
-
-**chkdsk**
-Verifica o disco rígido em busca de problemas e tenta corrigir erros.
 
 **tasklist**
 Mostra todos os programas e processos que estão rodando no momento no seu computador.

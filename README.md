@@ -26,8 +26,7 @@ O Windows passou de uma interface para MS-DOS (1985) ao sistema operacional mais
 3. **Windows 10** – Suporte prolongado, unificação de plataformas e melhorias constantes.  
 4. **Windows 95** – Revolução na interface e experiência do usuário.  
 5. **Windows 11** – Design moderno e otimizações para produtividade.
-6. 
-
+   
 ## Arquitetura do Windows 
 ![arquitetura](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Esquema_das_camadas_da_interface_gr%C3%A1fica.svg/1200px-Esquema_das_camadas_da_interface_gr%C3%A1fica.svg.png)
 Dividido em camadas:  

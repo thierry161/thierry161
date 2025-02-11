@@ -2,22 +2,23 @@
 # Sistemas Operacionais
 ## A evolução dos sistemas operacionais reflete a transformação da computação ao longo das décadas, acompanhando a crescente.
 
+
 ## Evolução do Windows 
 ![evoluçao Windows](https://preview.redd.it/kdug5qc6qxx01.jpg?auto=webp&s=5b6f0a811e257f3b50cb4194e51e51f6711f8197)
 
-O Windows passou de uma interface para MS-DOS (1985) ao sistema operacional mais usado no mundo. Destaques:  
+O Windows passou de uma interface para MS-DOS (1985) ao sistema operacional mais usado no mundo. Destaques
 - **Windows 95**: Introduziu o Menu Iniciar.  
 - **Windows XP**: Estável e popular.  
 - **Windows 7**: Sucesso de crítica e público.  
 - **Windows 10**: Unificou plataformas.  
-- **Windows 11**: Design moderno e foco em produtividade.  
+- **Windows 11**: Design moderno e foco em produtividade.
 
 
 ## Marcos importantes nos sistemas Operacionais 
 **Windows 95**: Revolucionou o uso de PCs com o Menu Iniciar e a Barra de Tarefas.  
 - **Windows XP**: Consolidou o Windows como sistema dominante pela estabilidade e interface intuitiva.  
 - **Windows 7**: Elogiado pelo desempenho e interface refinada.  
-- **Windows 10**: Unificou dispositivos (PCs, tablets e smartphones) e trouxe novidades como a Cortana.  
+- **Windows 10**: Unificou dispositivos (PCs, tablets e smartphones) e trouxe novidades como a Cortana.
 
 ## Cinco versões importantes do Windows
 ![]((https://preview.redd.it/kdug5qc6qxx01.jpg?auto=webp&s=5b6f0a811e257f3b50cb4194e51e51f6711f8197))
